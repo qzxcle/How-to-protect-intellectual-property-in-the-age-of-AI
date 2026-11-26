@@ -2,9 +2,9 @@
   <img src="2026-11-model-provenance/images/section-1-opener.webp" alt="Soft-focus photograph with nodes branching from one source into many derivatives" width="760">
 </p>
 
-<h1 align="center">Sentient Foundation · Monthly Reports</h1>
+<h1 align="center">Sentient Foundation · Provenance Report</h1>
 
-<p align="center">Research reports from Sentient Foundation, published in full with their figures.<br>Click a title to read it right here on GitHub, or grab the PDF.</p>
+<p align="center">Click the title to read it on GitHub or download the PDF.</p>
 
 ---
 
